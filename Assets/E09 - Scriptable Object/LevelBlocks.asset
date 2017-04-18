@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b5cdc460f80536f48b1dbf3521a77906, type: 3}
+  m_Name: LevelBlocks
+  m_EditorClassIdentifier: 
+  Blocks:
+  - Name: Green Blue Block
+    Prefab: {fileID: 100002, guid: 8d7052ac6bfd71740be307d6af0f1e8f, type: 2}
+  - Name: Green Block
+    Prefab: {fileID: -8401282, guid: 9d07a55ca2746c9478fe3086800b9a4f, type: 2}
+  - Name: Trigger Piston
+    Prefab: {fileID: 100000, guid: 815838e2ad6f13c43b6d66af755c487f, type: 2}
+  - Name: Pattern Piston
+    Prefab: {fileID: 100000, guid: 815838e2ad6f13c43b6d66af755c487f, type: 2}
